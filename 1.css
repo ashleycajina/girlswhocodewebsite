@@ -1,0 +1,49 @@
+h1{
+  background-color: FFFFFF;
+  color: #FFD700;
+  font-family: "Courier New";
+  font-size: 80px;
+}
+h2{
+  background-color: FFFFFF;
+}
+body{
+  background-color: #FFD700;
+}
+p{
+  color:FFFFFF;
+}
+p1{
+
+  color:FFFFFF;
+}
+p2{
+
+  color:FFFFFF;
+}
+p3{
+
+  color:FFFFFF;
+}
+p4{
+
+  color:FFFFFF;
+}
+p5{
+
+  color:FFFFFF;
+}
+p7{
+  font-size: 30px;
+}
+p8{
+  color:FFFFFF;
+  font-size: 35px;
+}
+div.Bio{
+  background-color: #FFD700;
+}
+div.button{
+  color: black;
+  font-size: 35px;
+}
